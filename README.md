@@ -1,2 +1,2 @@
 # starting_up
-Hello test
+Print('Hello test')
